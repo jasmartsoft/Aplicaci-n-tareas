@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jasmartsoft/Aplicaci-n-tareas.git/static/css/main.f926da65.css",
+    "main.js": "/jasmartsoft/Aplicaci-n-tareas.git/static/js/main.afd869b5.js",
+    "index.html": "/jasmartsoft/Aplicaci-n-tareas.git/index.html",
+    "main.f926da65.css.map": "/jasmartsoft/Aplicaci-n-tareas.git/static/css/main.f926da65.css.map",
+    "main.afd869b5.js.map": "/jasmartsoft/Aplicaci-n-tareas.git/static/js/main.afd869b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f926da65.css",
+    "static/js/main.afd869b5.js"
+  ]
+}
